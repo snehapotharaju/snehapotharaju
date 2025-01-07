@@ -1,12 +1,15 @@
-- 👋 Hi, I’m sneha potharaju
-- 👀 I’m interested in Data analytics 
-- 🌱 I’m currently doing data analytics projects..
-- 💞️ I’m looking for a position as data analyst
-- 📫 Reach me through mail:snehapotharaju2002@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Sneha! 👋
 
-<!---
-snehapotharaju/snehapotharaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Business Systems Analyst | Data Enthusiast | Problem Solver**
+
+💡 Skills: SQL | Python | Tableau | Data Analysis | Predictive Modeling | Apache Spark  
+🌟 Exploring ways to transform data into actionable insights for business growth.  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/sneha-potharaju17/) | [Email](snehapotharaju2002@gmail.com)  
+
+---
+
+## 🔑 Key Projects
+1. **Predicting Customer Churn**  
+   Built machine learning models using Python, Apache Spark, SQL, and Tableau to predict churn for a telecommunications company.  
+   [GitHub Repository](link-to-your-repo)  
+
